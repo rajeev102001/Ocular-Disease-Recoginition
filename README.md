@@ -38,3 +38,4 @@ Ocular disease detection using deep learning models, LBP preprocessing, and visi
 ## Other Contributors
 1. Anand Kumar Sahu
 2. Kshitij Kumar
+3. Heera Singh
